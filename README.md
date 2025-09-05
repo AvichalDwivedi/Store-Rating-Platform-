@@ -41,21 +41,6 @@ A React.js web application that allows users to submit ratings for stores. Featu
 2) Customer Feedback: See list of users who rated their store
 3) Account Management: Update password and manage profile
 
-## 🚀 Getting Started
-### Prerequisites
-1) Node.js (v14 or higher)
-2) npm or yarn package manager
-
-### Installation
-1) Clone the repository
-2) Install dependencies: npm install
-3) Start development server: npm run dev
-4) Open browser to http://localhost:3000
-
-### Default Login Credentials
-    Admin: email: admin@example.com
-    Password: Admin@123
-
 ## 🏗️ Project Structure
 
     src/
@@ -91,9 +76,20 @@ A React.js web application that allows users to submit ratings for stores. Featu
 <img width="1286" height="818" alt="image" src="https://github.com/user-attachments/assets/60523377-4f07-4db0-a408-c7bd0d11fb26" />
 
 
-## Deployment Link
-https://store-rating-platform-nine.vercel.app/login
+## 🚀 Getting Started
+### Prerequisites
+1) Node.js (v14 or higher)
+2) npm or yarn package manager
 
+### Installation
+1) Clone the repository
+2) Install dependencies: npm install
+3) Start development server: npm run dev
+4) Open browser to http://localhost:3000
+
+### Default Login Credentials
+    Admin: email: admin@example.com
+    Password: Admin@123
 
 
 
